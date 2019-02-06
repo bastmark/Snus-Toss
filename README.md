@@ -1,4 +1,12 @@
-# snustoss
-### A game about throwing snus into a can..
+# Snus Toss
+A game about throwing (flicking) a bag of snus into a can. Inspired by [Paper Toss](https://en.wikipedia.org/wiki/Paper_Toss), a game developed by [Backflip Studios](http://www.backflipstudios.com). Snus Toss was developed in december 2017 as christmas gift to some friends of mine while I learning some Swift.
 
-Side project trying to learn Swift basics
+
+<p align="center">
+  <img src="https://i.imgur.com/caHErTj.png" />
+</p>
+
+## Authors
+
+* **Johannes Bastmark** - [bastmark](https://github.com/bastmark)
+
